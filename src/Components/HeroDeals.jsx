@@ -2,7 +2,7 @@ import React from 'react'
 
 function HeroDeals() {
   return (
-    <div className='p-[25px] text-center bg-emerald-800 sm:p-[50px]  w-full '>
+    <div className='p-[25px] text-center dealBanner sm:p-[50px]  w-full '>
         <div className="w-full lg:h-[30vh]">
             <h1 className='text-2xl lg:text-4xl font-bold text-white mb-4'>Today’s Best Book Deals</h1>
             <p className=' text-white text-[12px] sm:text-[18px]'>Welcome to our Deals Corner — where book lovers save big!
