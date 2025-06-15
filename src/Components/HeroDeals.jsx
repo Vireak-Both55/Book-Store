@@ -10,7 +10,7 @@ Whether you're into thrillers, romance, self-help, or children's stories, we've 
 Don’t wait too long — these deals won’t last forever!</p>
         </div>
         <button className='text-white font-bold btn rounded-2xl shadow-none hover:bg-emerald-600 bg-emerald-700 border-0 '>
-            <a href="">
+            <a href="#">
                 Explore Now
             </a>
         </button>

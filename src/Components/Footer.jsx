@@ -25,16 +25,16 @@ function Footer() {
     <div className="font-bold text-center lg:text-start ">
         <h1 className='text-2xl'>Social Media</h1> 
     <div className="flex justify-center lg  :justify-start mt-5 items-center  ">
-        <a href="" className='px-2'>
+        <a href="#" className='px-2'>
         <IoLogoFacebook className='text-2xl  hover:text-blue-800 duration-500'/>       
         </a>
-        <a href="" className='px-2'>
+        <a href="#" className='px-2'>
         <IoLogoLinkedin className='text-2xl  hover:text-blue-500 duration-500'/>       
         </a>
-        <a href="" className='px-2'>
+        <a href="#" className='px-2'>
         <IoLogoInstagram className='text-2xl  hover:text-amber-800 duration-500'/>       
         </a>
-        <a href="" className='px-2'>
+        <a href="#" className='px-2'>
         <IoLogoTwitter className='text-2xl \ hover:text-blue-400 duration-500'/>       
         </a>
     </div>
@@ -69,27 +69,27 @@ function Footer() {
           <h4 className='font-bold text-xl'>About Us</h4>
             <ul className='ps-2 mt-3 text-[12px] sm:text-[16px]'>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     Help Center
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                   Order Tracking
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     Return Policy
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     Privacy Policy
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                    Terms & Conditions
                     </a>
                 </li>
@@ -99,18 +99,18 @@ function Footer() {
                     <h4 className='font-bold text-xl '>Contact Us</h4>
             <ul className='ps-2 mt-3 text-[12px] sm:text-[16px]'>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     Google Map
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <p href="" className=''>
+                    <p href="#" className=''>
                     Phone Number <br />
                     +888 000 000 0000
                     </p>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     BookStore@gmail.com
                     </a>
                 </li>
@@ -120,27 +120,27 @@ function Footer() {
             <h4 className='font-bold text-xl'>Service</h4>
             <ul className='ps-2 mt-3 text-[12px] sm:text-[16px]'>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     Help Center
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                   Order Tracking
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     Return Policy
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     Privacy Policy
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                    Terms & Conditions
                     </a>
                 </li>
@@ -150,27 +150,27 @@ function Footer() {
             <h4 className='font-bold text-xl'>Help</h4>
             <ul className='ps-2 mt-3 text-[12px] sm:text-[16px]'>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     FAQs
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                  Shipping Information
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                  Return & Refund Policy
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                     Account Help
                     </a>
                 </li>
                 <li className='hover:text-emerald-300 duration-300 my-2 transform hover:-translate-y-1'>
-                    <a href="">
+                    <a href="#">
                    Live Chat / Chatbot
                     </a>
                 </li>

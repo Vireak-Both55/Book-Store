@@ -111,7 +111,7 @@ function Header() {
     </div>
     {/* offcanvas Footer */}
     <div className="py-4 text-emerald-600 flex justify-between">
-      <a href="" className=' flex items-center font-bold hover:text-emerald-300 me-5 duration-300'>
+      <a href="#" className=' flex items-center font-bold hover:text-emerald-300 me-5 duration-300'>
       <IoPersonCircleOutline className="text-2xl me-1"/>
       <span>Account</span>
       </a>
