@@ -81,7 +81,7 @@ function Header() {
     <div className="border-b py-3 text-emerald-600 w-full items-center flex justify-between">
     <h1 className='text-3xl font-bold'>Welcom</h1>
     <button className=''onClick={()=>setIsOpen(false)}>
-      {isOpen?<IoClose className='text-3xl text-emerald-600'/>:null}
+      {isOpen?<IoClose className=' text-3xl text-emerald-600'/>:null}
     </button>
     </div>
     {/* offcavas Body */}
@@ -89,7 +89,7 @@ function Header() {
      <ul className='font-bold text-emerald-600 '>
            <li className='hover:text-emerald-400 duration-300 border-b-1 py-3'>
           <NavLink to={'/home'}>
-            Home
+            Homex 
           </NavLink>
         </li>
         <li className='hover:text-emerald-400 duration-300 border-b-1 py-3'>
