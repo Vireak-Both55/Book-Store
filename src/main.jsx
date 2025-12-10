@@ -15,7 +15,7 @@ createRoot(document.getElementById('root')).render(
     <FilterCateProvider>
     <BrowserRouter>
     <Routes>
-      <Route path='/' index element = {<App />}>
+      <Route path='/'  element = {<App />}>
       <Route path='/home' element = {<HomePage/>}/>
       <Route index element = {<HomePage/>}/>
       <Route path='/deals' element = {<DealsPage/>} />
